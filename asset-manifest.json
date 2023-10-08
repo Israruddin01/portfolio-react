@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.2b25953e.css",
+    "main.js": "/portfolio-react/static/js/main.772a5527.js",
+    "static/media/about2.jpg": "/portfolio-react/static/media/about2.bba7f39fb59d78c13aab.jpg",
+    "static/media/profile_isra.jpg": "/portfolio-react/static/media/profile_isra.baaeaac51ccd80c16aa4.jpg",
+    "static/media/testimonial5.jpg": "/portfolio-react/static/media/testimonial5.3a0ac88ee615f515965e.jpg",
+    "static/media/testimonial7.jpg": "/portfolio-react/static/media/testimonial7.a2aea698ab44b3e02fd3.jpg",
+    "static/media/Isra-Cv.pdf": "/portfolio-react/static/media/Isra-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/portfolio-react/index.html",
+    "main.2b25953e.css.map": "/portfolio-react/static/css/main.2b25953e.css.map",
+    "main.772a5527.js.map": "/portfolio-react/static/js/main.772a5527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b25953e.css",
+    "static/js/main.772a5527.js"
+  ]
+}
